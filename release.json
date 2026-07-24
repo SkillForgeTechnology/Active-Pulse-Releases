@@ -1,0 +1,5 @@
+{
+  "version": "1.2.7",
+  "url": "https://raw.githubusercontent.com/SkillForgeTechnology/Active-Pulse-Releases/main/ble_hid_mouse.bin",
+  "release_notes": "Firmware v1.2.7: Integrates 100% real diagnostic hardware telemetry (real-time ESP32 core temperature, live uptime counter, dynamic loop rate, and signal RSSI)."
+}
